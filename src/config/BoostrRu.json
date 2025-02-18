@@ -1,19 +1,19 @@
 {
     "collection": {
         "view": {
-            "dev": "https://crm-kz-dev.itsf.dev",
-            "qa": "https://crm-kz-qa.itsf.dev",
-            "stage": "https://crm-stage.boostrfinance.kz/login",
-            "prod": "https://crm.boostrfinance.kz/"
+            "dev": "url dev среды",
+            "qa": "url qa среды",
+            "stage": "url stage среды",
+            "prod": "url prod среды"
         },
         "swagger": {
-            "dev": "https://crm-kz-dev.itsf.dev/collection-crm/swagger-ui/index.html#/",
-            "qa": "https://crm-kz-qa.itsf.dev/collection-crm/swagger-ui/index.html#/",
-            "stage": "https://crm-stage.boostrfinance.kz/collection-crm/swagger-ui/index.html#/",
-            "prod": "https://crm.boostrfinance.kz/collection-crm/swagger-ui/index.html#/"
+            "dev": "swagger dev среды",
+            "qa": "swagger dev среды",
+            "stage": "swagger dev среды",
+            "prod": "swagger dev среды"
         },
-        "jira": "http://jira.corp.ru:8080/secure/RapidBoard.jspa?rapidView=86",
-        "figma": "https://www.figma.com/files/team/962272160283854636/project/113428124?fuid=1372805458887788063",
-        "gitlab": "https://gitlab.joy.money/kzcollection/kz-crm"
+        "jira": "url jura",
+        "figma": "url figma",
+        "gitlab": "url project"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "nibble": {
+        "view": {
+            "dev": "https://crm-kz-dev.itsf.dev",
+            "qa": "https://crm-kz-qa.itsf.dev",
+            "stage": "https://crm-stage.boostrfinance.kz/login",
+            "prod": "https://crm.boostrfinance.kz/"
+        },
+        "swagger": {
+            "dev": "https://crm-kz-dev.itsf.dev/collection-crm/swagger-ui/index.html#/",
+            "qa": "https://crm-kz-qa.itsf.dev/collection-crm/swagger-ui/index.html#/",
+            "stage": "https://crm-stage.boostrfinance.kz/collection-crm/swagger-ui/index.html#/",
+            "prod": "https://crm.boostrfinance.kz/collection-crm/swagger-ui/index.html#/"
+        },
+        "jira": "http://jira.corp.ru:8080/secure/RapidBoard.jspa?rapidView=86",
+        "figma": "https://www.figma.com/files/team/962272160283854636/project/113428124?fuid=1372805458887788063",
+        "gitlab": "https://gitlab.joy.money/kzcollection/kz-crm"
+    }
+}

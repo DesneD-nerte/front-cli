@@ -1,0 +1,31 @@
+{
+    "name": "front-cli",
+    "version": "0.1.0",
+    "main": "dist/index.js",
+    "type": "module",
+    "scripts": {
+        "build": "npx tsc",
+        "watch": "npx tsc --watch"
+    },
+    "bin": {
+        "front-cli": "dist/index.js"
+    },
+    "keywords": [],
+    "author": "Aleksandr Ershov",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@types/shelljs": "^0.8.15",
+        "commander": "^12.1.0",
+        "inquirer": "^9.2.23",
+        "open": "^10.1.0",
+        "reflect-metadata": "^0.2.2",
+        "shelljs": "^0.8.5",
+        "typedi": "^0.10.0"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.14.2",
+        "typescript": "^5.4.5"
+    }
+}
